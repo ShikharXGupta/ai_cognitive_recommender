@@ -5,10 +5,10 @@ This project is an AI-powered cognitive recommender system that suggests activit
 
 ## Project Structure
 
-- **/data**: Contains raw and processed datasets.
-- **/model**: Contains preprocessing, training scripts, and saved models.
-- **/api**: Contains API logic and database interactions.
-- **/database**: Contains the SQL database initialization script.
+- /data: Contains raw and processed datasets.
+- /model: Contains preprocessing, training scripts, and saved models.
+- /api: Contains API logic and database interactions.
+- /database: Contains the SQL database initialization script.
 
 ## Steps to Set Up
 
