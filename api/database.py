@@ -2,10 +2,10 @@ import psycopg2 # type: ignore
 
 DB_CONFIG = {
     "dbname": "cognitive_db",
-    "user": "Admin",
-    "password": "Password",
+    "user": "[username]",
+    "password": "[Password]",
     "host": "localhost",
-    "port": "5432"
+    "port": "[Postgresql port]"
 }
 
 def get_db_connection():
